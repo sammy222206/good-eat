@@ -1,2 +1,2 @@
 # good-eat
-This repository is for a restaurant and food website.
+This repository is for a restaurant and food delivery website.
